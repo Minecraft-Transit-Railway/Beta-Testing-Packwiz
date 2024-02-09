@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTR-fabric-1.20.4-4.0.0-beta-4.jar"
-hash = "85de07908602069e8e51dbedc0af78faf08262935694b6849ac1b0a9bc627b5c"
+hash = "e5e0558f7f86055497f10301fcb72a56a9090c6b97f770fe3d9c2c091e78fb73"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "d1ed35943d45fee289113bb614b24382b949dfadad1d7dc786d4356cb7887baa"
 metafile = true
 
 [[files]]
