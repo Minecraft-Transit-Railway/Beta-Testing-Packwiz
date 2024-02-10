@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTR-fabric-1.20.4-4.0.0-beta-4.jar"
-hash = "e5e0558f7f86055497f10301fcb72a56a9090c6b97f770fe3d9c2c091e78fb73"
+hash = "c6aa74b0db9b5be3c99e23403990b64e043aab268a2b6431338310919bb420bd"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
