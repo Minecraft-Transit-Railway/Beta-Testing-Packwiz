@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTR-fabric-1.20.4-4.0.0-beta-4.jar"
-hash = "6834039c567f39dc590765225f863c95cffcc397c61102e12d5742a409f82fff"
+hash = "a4f92ed1a0cda4f017e3d9c2f631dbe669f35e36f09003b664d61e0b878233a0"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
