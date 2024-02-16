@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTR-fabric-1.20.4-4.0.0-beta-4.jar"
-hash = "a4f68d5d0927b6dc556c03ce8ae7e01bd78df3a6f2f3bbb897d92212c4a1b929"
+hash = "dede06d7131c0da81aaa20b8e754808dd060b9853a0bd89515dead9bf06bdeec"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -11,7 +11,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d1ed35943d45fee289113bb614b24382b949dfadad1d7dc786d4356cb7887baa"
+hash = "5565745a71c49c243d26050d2dc94b7544057ff1e39b24428f9c3ca33df1c828"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -57,4 +62,14 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
 metafile = true
