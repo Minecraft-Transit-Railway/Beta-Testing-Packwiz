@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTR-fabric-1.20.4-4.0.0-beta-4.jar"
-hash = "6ea20265b987d5cb41030bc16303f0de675c99989642904ac56a4811db56c761"
+hash = "769257a88156c1a217cbb35f90ae2ef801b623cd4e155050698695fd1929bc94"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
