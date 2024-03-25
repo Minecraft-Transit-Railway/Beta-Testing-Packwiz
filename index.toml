@@ -6,16 +6,16 @@ hash = "68fd26382b0810be95fa88a6fe65c24de0fa5287cb10c22a8dc50507ee5014c6"
 
 [[files]]
 file = "mods/MTR-fabric-1.20.4-4.0.0-beta-6.jar"
-hash = "5af89362d5ff9e1628370672138d43dd825fd9b0a44d488655e5997b86bc21c8"
+hash = "f6da23dd76a51afa25ac3f3e9f2424739e000cceff096418920a3e17e223421e"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
+hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bc5559ece399ce470ad9bb879827ab460b3e5c5c113b39ae18ace6c33d875d1c"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
