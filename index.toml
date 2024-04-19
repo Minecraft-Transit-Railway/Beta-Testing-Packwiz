@@ -5,8 +5,8 @@ file = "mods/MTR-London-Underground-Addon-fabric-1.20.4-2.1.1.jar"
 hash = "68fd26382b0810be95fa88a6fe65c24de0fa5287cb10c22a8dc50507ee5014c6"
 
 [[files]]
-file = "mods/MTR-fabric-1.20.4-4.0.0-beta-6.jar"
-hash = "dbb5f4a173c5c30e6ae0142c97cc8740851a1a1d86c19dbb3fd778367358d3b7"
+file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
+hash = "d92651805d842ac83ddf2b329f95e499d89e3183bcaa8d3448541beeb8879c71"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
