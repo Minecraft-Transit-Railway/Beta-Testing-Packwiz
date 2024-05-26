@@ -85,3 +85,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "60d8f8307c2008c62cffe4c0be4fa1e8e9057fadac469594bd326f7e370ec0be"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Centown.zip"
+hash = "f24b3b76bfaeb519cc90110a4f4b0dbfdbf4fc9403b018739e89816302962761"
+
+[[files]]
+file = "servers.dat"
+hash = "ec943976ae7eb8c3a25e7b119138140245b7e09ec7f24eb86868b1689a668e46"
