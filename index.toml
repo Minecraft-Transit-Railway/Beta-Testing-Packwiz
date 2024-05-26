@@ -14,11 +14,11 @@ hash = "4a96b842b914e16908010db8308bf974934bfa2c4956fc6b68a466002d8acb53"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
-hash = "a95f265f228b507dae99edcc5d4e61bfaa61a985b36b5a4ebe0fe3cb9066a3a7"
+hash = "c2f6bbca154780288335494ef9fd8eda0e2272176b89cd56b0468ea6cfff93c8"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
+hash = "489c1b03fb49b1e1a62541465a305f56a6743078b3cec2d420e182c3b45f0015"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "60d8f8307c2008c62cffe4c0be4fa1e8e9057fadac469594bd326f7e370ec0be"
+hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
 metafile = true
 
 [[files]]
