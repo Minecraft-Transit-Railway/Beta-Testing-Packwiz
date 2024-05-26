@@ -62,6 +62,11 @@ hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
 
 [[files]]
+file = "mods/no_fog.pw.toml"
+hash = "8d8b97075134e0489d2291ffc2390bfd1aec5eb4620559076ab1046c61e7427b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
