@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/JCM-fabric-2.0.0-beta-1+1.20.4.jar"
-hash = "6433876e9f398fb775e8f80b78e71580cba891ba7a982608c43298b2b3b78be4"
+hash = "29b35c93061d23bd8044a6ae90cc1c38ab2b7ae6e5bd5f25e0ecc3a40bd78c52"
 
 [[files]]
 file = "mods/MSD-fabric-1.20.4-4.0.0-beta-7-1.3.5.jar"
-hash = "ff1189e2efb9c2294950cdebbf46855b01ac8f109e189e945b01b21d00d9922e"
+hash = "f655f1ed31399548ce687a3b9011abdc4affa912c4870a48f8d21a6779161834"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.1.1+1.20.4.jar"
@@ -14,7 +14,7 @@ hash = "4a96b842b914e16908010db8308bf974934bfa2c4956fc6b68a466002d8acb53"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
-hash = "ea6fd3e376dafc1fb2ba0b3be6e1b756317463552b45c5252f31d885a34506f3"
+hash = "0230d7936c00a3c14639a711e4b1dd92e755601f7076a49ed6e93a76f6caf4ab"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -59,11 +59,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
-metafile = true
-
-[[files]]
-file = "mods/no_fog.pw.toml"
-hash = "8d8b97075134e0489d2291ffc2390bfd1aec5eb4620559076ab1046c61e7427b"
 metafile = true
 
 [[files]]
