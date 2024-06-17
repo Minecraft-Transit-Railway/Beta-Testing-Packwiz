@@ -22,7 +22,7 @@ hash = "dbd7f7d760115c1f16205344d96ec8820ab9ddec00f5ec0d47e12acf2ff3b690"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3.jar"
-hash = "c4708c65c1f670f6b7a0a68a31429abe5830387b015f706341dc62b7e4625aa7"
+hash = "6cd46853fbfdb4217315c90b23eae4edccdb823a2b77d91d89b4ea491a40d539"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
