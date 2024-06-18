@@ -18,7 +18,7 @@ hash = "8ba3ec6ce01610b6666eee14475a7af1c0d9edd0c53bf6e5a852caf026df76f0"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
-hash = "dbd7f7d760115c1f16205344d96ec8820ab9ddec00f5ec0d47e12acf2ff3b690"
+hash = "bca50b90c9b1a5df65136ed38b8e36c85f5f96177a846cffeb3cefce2923dcdf"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3.jar"
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
+hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
 
 [[files]]
