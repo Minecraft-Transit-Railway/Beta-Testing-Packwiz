@@ -1,28 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-fabric-2.0.0-beta-2+1.20.4.jar"
-hash = "4d6f3012f9c59cd48c0512d61134f27e403f71dd648ac0681c345dc3f5640ba8"
+file = "mods/JCM-2.0.0-beta-2+1.20.4.jar"
+hash = "b4d693a30d4261f2ac462e093a26a15e777073506efdf8d9659eeb7e939098d3"
 
 [[files]]
-file = "mods/MSD-fabric-1.20.4-4.0.0-beta-7-1.3.5.jar"
-hash = "70397a80fca545214fe5c56b4eb309645a38c803f2eb3a6dc1f2b4085138ee58"
+file = "mods/MSD-fabric-1.20.4-4.0.0-beta-8-1.3.5.jar"
+hash = "77eb36de1bd5c010266da5365c0f590924faba507f72c037777ca3f268b830fe"
 
 [[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.1.1+1.20.4.jar"
-hash = "ed4af097d20d44865a81e3fd179d62057f36bed2f7ea66dfec9af75b876bd011"
+file = "mods/MTR-London-Underground-Addon-fabric-2.2.0+1.20.4.jar"
+hash = "e8cee9a41105e9598f70c5dd2e9f166873065d404c7167057a0701b965de8c4e"
 
 [[files]]
-file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-1+1.20.4.jar"
-hash = "2ac3e1a85b048e7a036da245ce922f1b6c8dc91ea45581d48fbb0b4a140b31e6"
+file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-2+1.20.4.jar"
+hash = "3a83cf3747228580ff9d49e0475f4c19470e875194de89adfc867c704d7c911f"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
-hash = "0e5517d055b8a9d28b33a935ce1c63a5e12810b743df4331cca688240f15d307"
+file = "mods/MTR-fabric-4.0.0-beta-8+1.20.4.jar"
+hash = "b2a518a72e3544e8d9481c74e41b490c536c21ab07890bc03e01fff1e462ada7"
 
 [[files]]
-file = "mods/Slideshow-fabric-1.20.4-1.0.3.jar"
-hash = "6cd46853fbfdb4217315c90b23eae4edccdb823a2b77d91d89b4ea491a40d539"
+file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
+hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
