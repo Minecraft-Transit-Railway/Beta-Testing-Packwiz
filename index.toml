@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-2.0.0-beta-2+1.20.4.jar"
-hash = "b4d693a30d4261f2ac462e093a26a15e777073506efdf8d9659eeb7e939098d3"
+file = "mods/JCM-2.0.0-beta-3+1.20.4.jar"
+hash = "5fa8cd3a1c7a04aa6566dfdb757d2d6758121b0439a16d980e89bd1a65bb6720"
 
 [[files]]
-file = "mods/MSD-fabric-1.20.4-4.0.0-beta-8-1.3.5.jar"
-hash = "77eb36de1bd5c010266da5365c0f590924faba507f72c037777ca3f268b830fe"
+file = "mods/MSD-fabric-1.20.4-4.0.0-beta-8-hotfix-1-1.3.8.jar"
+hash = "f792e4b94811935fc420adc101055501ddeb09acfd4d1baa2738c5f47ba41cf9"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.0+1.20.4.jar"
@@ -17,8 +17,8 @@ file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-2+1.20.4.jar"
 hash = "3a83cf3747228580ff9d49e0475f4c19470e875194de89adfc867c704d7c911f"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-beta-8+1.20.4.jar"
-hash = "b2a518a72e3544e8d9481c74e41b490c536c21ab07890bc03e01fff1e462ada7"
+file = "mods/MTR-fabric-4.0.0-beta-8-hotfix-1+1.20.4.jar"
+hash = "9c133bc9bc79bdfdc248c28b632e59754612a424e53ce0cf617c774328a4b4ef"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
@@ -26,17 +26,17 @@ hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "19234a2e250e302674c9ccc9b457a3789e475d92c0d3e849e2a61e093caa9ee9"
+hash = "a6ad419cfad0e4bca848d626e9c3821f6a87ce5cf70b4448b5a00d0d33b15f03"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
+hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
 metafile = true
 
 [[files]]
@@ -80,6 +80,10 @@ hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
+file = "mods/resourcepackupdater-1.20.4-2.3.0.jar"
+hash = "ad1943311107f5b94e2fbe78225ec3286531cb8b419f3fb27e36c5d5890a0669"
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
@@ -101,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Centown.zip"
-hash = "f24b3b76bfaeb519cc90110a4f4b0dbfdbf4fc9403b018739e89816302962761"
+hash = "2e37334f1f703a5f84a8c42283e8aac126a76532afec2145f6072c2c2385506e"
 
 [[files]]
 file = "servers.dat"
