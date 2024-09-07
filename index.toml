@@ -17,8 +17,8 @@ file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-2+1.20.4.jar"
 hash = "3a83cf3747228580ff9d49e0475f4c19470e875194de89adfc867c704d7c911f"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-beta-8-hotfix-1+1.20.4.jar"
-hash = "9c133bc9bc79bdfdc248c28b632e59754612a424e53ce0cf617c774328a4b4ef"
+file = "mods/MTR-fabric-4.0.0-beta-9+1.20.4.jar"
+hash = "976d9d8123f58ced231506f94fe3e16d3d817c6b772022201f0c5517a1a403d6"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
