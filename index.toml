@@ -18,7 +18,7 @@ hash = "3a83cf3747228580ff9d49e0475f4c19470e875194de89adfc867c704d7c911f"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-beta-9+1.20.4.jar"
-hash = "aade11849a29ff510b051d7a05c8108fd50e5981fe3e3cd4ac35870b65e4c674"
+hash = "87abb3addc3d55eb5df9f24c60e7d42a7fb5f2c1db077e589b3706259746d9fd"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
