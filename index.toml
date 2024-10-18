@@ -1,24 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-2.0.0-beta-3+1.20.4.jar"
-hash = "5fa8cd3a1c7a04aa6566dfdb757d2d6758121b0439a16d980e89bd1a65bb6720"
+file = "mods/JCM-2.0.0-beta-4+1.20.4.jar"
+hash = "084ad1bd6ad8afd6056c2ba58c815143a44603a9d5009155294bcd517bff47d3"
 
 [[files]]
-file = "mods/MSD-fabric-1.20.4-4.0.0-beta-8-hotfix-1-1.3.8.jar"
-hash = "f792e4b94811935fc420adc101055501ddeb09acfd4d1baa2738c5f47ba41cf9"
+file = "mods/MSD-fabric-1.20.4-4.0.0-beta-10-1.3.10.jar"
+hash = "9d9047032d4d379092fe2ac58ce0c7af86bbd7dd2df36de8a8ce04176839eb9c"
 
 [[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.2.0+1.20.4.jar"
-hash = "e8cee9a41105e9598f70c5dd2e9f166873065d404c7167057a0701b965de8c4e"
+file = "mods/MTR-London-Underground-Addon-fabric-2.2.1+1.20.4.jar"
+hash = "aac40c88cc2b74aeb6e4c04433b350ecac845eaaa81352746b18638be5cd33c2"
 
 [[files]]
 file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-2+1.20.4.jar"
-hash = "3a83cf3747228580ff9d49e0475f4c19470e875194de89adfc867c704d7c911f"
+hash = "e2b758e0cffbf602775bdc84f3dd04458125cb326550ad5d9c6310781b9928b1"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-beta-9+1.20.4.jar"
-hash = "87abb3addc3d55eb5df9f24c60e7d42a7fb5f2c1db077e589b3706259746d9fd"
+file = "mods/MTR-fabric-4.0.0-beta-10+1.20.4.jar"
+hash = "52bce9d773daeee801b3d5c41b77cfd08f19bb7413afc6f19626d6bbf3e7a786"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
