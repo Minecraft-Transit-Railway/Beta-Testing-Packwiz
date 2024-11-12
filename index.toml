@@ -18,7 +18,7 @@ hash = "e2b758e0cffbf602775bdc84f3dd04458125cb326550ad5d9c6310781b9928b1"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-beta-11+1.20.4.jar"
-hash = "fe988ce8f4f306f0a287111f2dfee8d3aba3927a20a1dbc730765f28012c1012"
+hash = "d149db4fd71e2491f3bce5feceb33849c46bded5849cd1378aa2bceb17ed6c34"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
@@ -26,7 +26,7 @@ hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a6ad419cfad0e4bca848d626e9c3821f6a87ce5cf70b4448b5a00d0d33b15f03"
+hash = "9d1aa4e2beb049d78ddf4718f947506a28d130ae4d42821b2e465cb085f4d6f0"
 metafile = true
 
 [[files]]
@@ -109,4 +109,4 @@ hash = "2e37334f1f703a5f84a8c42283e8aac126a76532afec2145f6072c2c2385506e"
 
 [[files]]
 file = "servers.dat"
-hash = "238db24dbe96edd769ca0d672b8156aefbe1f5e0fe5e7f6770ef83b7c640e5f0"
+hash = "1288bde63b90d5bfb705269d2f5e4f9a32dd037e6ba428ea494d18dd175d2bba"
