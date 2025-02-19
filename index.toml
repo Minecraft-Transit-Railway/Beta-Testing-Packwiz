@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcepackupdater-1.20.4-2.3.0.jar"
-hash = "ad1943311107f5b94e2fbe78225ec3286531cb8b419f3fb27e36c5d5890a0669"
+hash = "3ea5a232d49e93571f4a62b9a5d01c9b5eaad2d0b8b4189ab44cd474b6f0a479"
 
 [[files]]
 file = "mods/sodium.pw.toml"
