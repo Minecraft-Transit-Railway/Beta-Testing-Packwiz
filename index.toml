@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-2.0.0-beta.7+1.20.4.jar"
-hash = "d191031c04eff10e14460fc4dff7948033dda5a861403eb9c75f917ebe29a081"
+file = "mods/JCM-2.0.0-beta.10+1.20.4.jar"
+hash = "c9003d79029f47320467514de7774cf479f1b89c68533be8126d871733042338"
 
 [[files]]
-file = "mods/MSD-fabric-1.20.4-4.0.0-beta.14-1.3.15.jar"
-hash = "0ba17e1245cc8b375a129bde80562c1be083b58e8ea495088e24d7ee515ce375"
+file = "mods/MSD-fabric-1.20.4-4.0.0-beta.16-1.3.17.jar"
+hash = "e7546de2d01ac7f0a951ad4da8b39fed5dedbbee8ea738d94bb0fa061cd472e0"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.3+1.20.4.jar"
@@ -17,8 +17,8 @@ file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4+1.20.4.jar"
 hash = "626cc1f530b497cf332afd373198254c064e7edc67628ab481175219f1b5182d"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-beta.15+hotfix.1+1.20.4.jar"
-hash = "dc505b1f66e1125b3fc1307b89b46be928edb9ba9611aea9a4dc594d8d1ccf03"
+file = "mods/MTR-fabric-4.0.0-prerelease.1+1.20.4.jar"
+hash = "bcf6a9d146686cbb2342bdc1a2a877634202f560c63b7e9e16432c319e385cd1"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
