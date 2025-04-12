@@ -10,7 +10,7 @@ hash = "e7546de2d01ac7f0a951ad4da8b39fed5dedbbee8ea738d94bb0fa061cd472e0"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.3+1.20.4.jar"
-hash = "15787c7ee1f1a935fe57109406eef5bcfb9dfb4507c2734bd12744d4b35f771a"
+hash = "b492c9e2b774d803d330eeb630b6731d77512cc04af914f67ad910f896cd8682"
 
 [[files]]
 file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4+1.20.4.jar"
@@ -18,7 +18,7 @@ hash = "626cc1f530b497cf332afd373198254c064e7edc67628ab481175219f1b5182d"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-prerelease.1+1.20.4.jar"
-hash = "c85a13d16cb3d8557e66a5b11af0b5aa356b511c4fffd22151b665e2c6261a77"
+hash = "9e3a379cf92574422454f6e63b77dfa4d4b0da14b8e48bf0f8e160a89fe7153b"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
