@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/JCM-2.0.0-prerelease.1+1.20.4.jar"
-hash = "f8e2740cccd9a743ca9d9452a171c642799613e0ad9e390a3969efcfc80fae62"
+hash = "54fec6331fe341f44628e67f330348e8eace7c52a320d9be549c93938a935b10"
 
 [[files]]
 file = "mods/MSD-fabric-1.20.4-4.0.0-beta.16-1.3.17.jar"
@@ -17,8 +17,8 @@ file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4+1.20.4.jar"
 hash = "626cc1f530b497cf332afd373198254c064e7edc67628ab481175219f1b5182d"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-prerelease.1+1.20.4.jar"
-hash = "008ac649c7be898a775217260fed64dd81454544b1895d0ac437c8990c50843d"
+file = "mods/MTR-fabric-4.0.0-prerelease.2+1.20.4.jar"
+hash = "160842b46d0ac89c9dda18bdb92f984794669e0d004e735fcdd3f38f5aff7cec"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
