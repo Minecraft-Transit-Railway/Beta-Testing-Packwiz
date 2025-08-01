@@ -1,24 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-2.0.0-prerelease.2+1.20.4.jar"
-hash = "221172b3f1f492fa3e68170229aa00152e22b3ca7515d75bc482cf851dde38e8"
+file = "mods/JCM-fabric-2.0.0+1.20.4.jar"
+hash = "055228d7500d6cea5e29b96c86dd690dbc38112193a13c932189837e6c7cdcd7"
 
 [[files]]
 file = "mods/MSD-fabric-1.20.4-4.0.0-prerelease.2-1.3.19.jar"
 hash = "9be4578d471764dbd087acf0fc471d1cfe5d9daddff9ce8dae69b58a3375086e"
 
 [[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.2.3+1.20.4.jar"
-hash = "982dc17ae877f6185fc80287a107af453aeae36d69b70fa7c0895a1e1e7edc83"
+file = "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.4.jar"
+hash = "67953ba8b1652849a679722e7d3f6b230fdaf6537437f8e3c6e3ab6941d11b64"
 
 [[files]]
-file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4+1.20.4.jar"
-hash = "626cc1f530b497cf332afd373198254c064e7edc67628ab481175219f1b5182d"
+file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0+1.20.4.jar"
+hash = "f90398a8088095dc053dfdd0f4271b7020b9cd15b292f4c5db3fb1acb7228799"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-prerelease.3+1.20.4.jar"
-hash = "1adf29e58ef7fa1c5f6ce871565d8265b7d77f75c6e31c82b762513cda9745ce"
+file = "mods/MTR-fabric-4.0.0+1.20.4.jar"
+hash = "a956eecd938cc67f9139688446881ac38b27e5d20671250880f9285596156c50"
 
 [[files]]
 file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
@@ -26,17 +26,17 @@ hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fdc91980807783db87a37d95ec27a5392fdfcd6b0bd452e7f99dfd6908b1f2f7"
+hash = "b21edc5455b0d1b0f59ba977962541f6e63ffcbd4f1ac6a0c1aeb398e1b7f701"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
+hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
