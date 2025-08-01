@@ -21,8 +21,8 @@ file = "mods/MTR-fabric-4.0.0+1.20.4.jar"
 hash = "a956eecd938cc67f9139688446881ac38b27e5d20671250880f9285596156c50"
 
 [[files]]
-file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
-hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
+file = "mods/Slideshow-1.0.3-Enhancement-1.jar"
+hash = "1d41c88d86ef203dc20772f08886a1a9abaaac0e009350f3ddfc5817cbfa425f"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
