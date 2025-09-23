@@ -1,24 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/JCM-fabric-2.0.0+1.20.4.jar"
-hash = "055228d7500d6cea5e29b96c86dd690dbc38112193a13c932189837e6c7cdcd7"
-
-[[files]]
-file = "mods/MSD-fabric-1.20.4-4.0.0-prerelease.2-1.3.19.jar"
-hash = "9be4578d471764dbd087acf0fc471d1cfe5d9daddff9ce8dae69b58a3375086e"
-
-[[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.4.jar"
-hash = "67953ba8b1652849a679722e7d3f6b230fdaf6537437f8e3c6e3ab6941d11b64"
-
-[[files]]
-file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0+1.20.4.jar"
-hash = "f90398a8088095dc053dfdd0f4271b7020b9cd15b292f4c5db3fb1acb7228799"
-
-[[files]]
-file = "mods/MTR-fabric-4.0.0+1.20.4.jar"
-hash = "a956eecd938cc67f9139688446881ac38b27e5d20671250880f9285596156c50"
+file = "mods/MTR-fabric-4.0.1+1.20.4.jar"
+hash = "388272ed09937f619050ce37608c9e23d8058a70dac34c8cdda9de933ddbe682"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-Enhancement-1.jar"
@@ -36,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -52,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "f905ec94de61aca295527c1b0343b8a04d700bd62c7f7ac019e6b27649fd5b67"
 metafile = true
 
 [[files]]
@@ -84,6 +73,11 @@ file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
 hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
 
 [[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
@@ -91,6 +85,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "239e69ddcb3a1fdd36cac6526df09b3114e0ad7700208a0f8a56b06dc446cdc5"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "370562c6b363aeb7b7b35bd44b5ff7ad49560e75cb66d38c8889c84274471b95"
 metafile = true
 
 [[files]]
