@@ -7,7 +7,7 @@
         },
         {
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.15.6"
+            "version": "0.19.3"
         }
     ],
     "formatVersion": 1
